@@ -19,7 +19,7 @@
 - 🤖 Foco em **Agentes de IA**, **Automação com LLMs** e **Prompt Engineering**
 - 🛠️ Explorando **RAG**, **fine-tuning**, pipelines de IA e integrações via API
 - 🐍 Python como linguagem principal para tudo que envolve IA
-- 🌐 Construindo com APIs de: **OpenAI**, **Anthropic Claude**, **Google Gemini**, **Groq**
+- 🌐 Construindo com APIs de: **OpenAI**, **Anthropic Claude**, **Google Gemini**, **Grok**
 - 💬 Curtindo **vibe coding** — usando IA pra escrever código junto comigo
 - 📍 Minas Gerais, Brasil
 
@@ -29,11 +29,10 @@
 
 ### 🧠 LLMs & APIs
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Sonnet-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google-Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-AI-FF7000?style=for-the-badge&logoColor=white)
+![GPT-5](https://img.shields.io/badge/OpenAI-GPT--5.4-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Opus_4.6-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini_3.1-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/xAI-Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ### 🐍 Linguagem & Frameworks
 
@@ -44,12 +43,11 @@
 
 ### ⚙️ Plataformas & IDEs com IA
 
-![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI_IDE-7B2FBE?style=for-the-badge&logo=rocket&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CLI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
