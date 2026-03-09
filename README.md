@@ -1,84 +1,95 @@
-<h1 align="center">Fala aí, eu sou o Luiz Gustavo 👋</h1>
-<h3 align="center">Analista de Sistemas | ERP TOTVS RM & NBS | IA & Automação</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ERP+%7C+TOTVS+RM+%7C+NBS+%7C+SQL+Server;Automação+%7C+Python+%7C+PowerShell;IA+%7C+Vibe+Coding+%7C+Dev+em+evolução" alt="Typing SVG" />
-</p>
+<!-- Banner animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Luiz+Gustavo+%F0%9F%A4%96;AI+Builder+%26+Prompt+Engineer;Automating+the+future+with+AI;Vibe+Coder+%7C+AI+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IuizGustavoMoreira&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/IuizGustavoMoreira?label=Followers&style=social" alt="followers" />
-</p>
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=IuizGustavoMoreira&label=Visitors&color=A855F7&style=flat-square)](https://github.com/IuizGustavoMoreira)
+[![GitHub followers](https://img.shields.io/github/followers/IuizGustavoMoreira?label=Followers&style=flat-square&color=A855F7)](https://github.com/IuizGustavoMoreira)
+
+</div>
 
 ---
 
-### 😎 Sobre mim
+## 🧠 Sobre mim
 
-- 🔧 Especialista em **ERP TOTVS RM** e **NBS/DealerNet** — administração, customização e suporte
-- 🗄️ Forte em **SQL Server** e **Oracle** — queries, tuning e integrações
-- 🤖 Apaixonado por **IA, automação** e *vibe coding*
-- 🧾 Experiência com compliance fiscal: **NF-e, NFS-e, SEFAZ**
-- 🎮 No tempo livre: games, bots e experimentos com IA
+> Apaixonado por **Inteligência Artificial** e tudo que ela pode transformar. Estou em transição de carreira para a área de IA, construindo projetos reais com as ferramentas mais modernas do mercado.
+
+- 🤖 Foco em **Agentes de IA**, **Automação com LLMs** e **Prompt Engineering**
+- 🛠️ Explorando **RAG**, **fine-tuning**, pipelines de IA e integrações via API
+- 🐍 Python como linguagem principal para tudo que envolve IA
+- 🌐 Construindo com APIs de: **OpenAI**, **Anthropic Claude**, **Google Gemini**, **Groq**
+- 💬 Curtindo **vibe coding** — usando IA pra escrever código junto comigo
 - 📍 Minas Gerais, Brasil
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Ferramentas & Modelos de IA que uso
 
-**Linguagens & Scripting**
+### 🧠 LLMs & APIs
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4o-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Sonnet-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google-Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-AI-FF7000?style=for-the-badge&logoColor=white)
+
+### 🐍 Linguagem & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Banco de Dados**
+### ⚙️ Plataformas & IDEs com IA
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**ERPs & Plataformas**
-
-![TOTVS](https://img.shields.io/badge/TOTVS-RM-00A3E0?style=for-the-badge)
-![NBS](https://img.shields.io/badge/NBS-DealerNet-00A3E0?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-**IA & Ferramentas**
-
-![Claude](https://img.shields.io/badge/Claude-AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CLI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-### 🚀 Projetos em destaque
+## 🎯 Foco atual
 
-> _Em breve — estou organizando os projetos de automação ERP, scripts SQL e bots aqui no GitHub._
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IuizGustavoMoreira&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IuizGustavoMoreira&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuizGustavoMoreira&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+```python
+luiz = {
+    "aprendendo": ["Agentes autônomos com LangChain", "RAG com embeddings", "Fine-tuning de LLMs"],
+    "construindo": ["Bots e automações com IA", "Pipelines de prompt engineering", "Integrações de API"],
+    "explorando": ["Modelos multimodais", "Voz + IA", "IA generativa aplicada"],
+    "objetivo": "Trabalhar 100% com Inteligência Artificial 🤖"
+}
+```
 
 ---
 
-### 📫 Contato
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](#) — adicione seu link aqui
-- 🧑‍💻 [GitHub](https://github.com/IuizGustavoMoreira)
-- ✉️ Me chama por aqui!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IuizGustavoMoreira&show_icons=true&theme=midnight-purple&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IuizGustavoMoreira&theme=midnight-purple&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuizGustavoMoreira&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
 
 ---
 
-<p align="center">
-  <i>"Automatizar o chato pra sobrar tempo pro que importa."</i>
-</p>
+## 📡 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IuizGustavoMoreira)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=%22A+IA+n%C3%A3o+vai+substituir+as+pessoas...;...mas+pessoas+que+usam+IA+v%C3%A3o+substituir+as+que+n%C3%A3o+usam.%22" alt="quote" />
+</div>
